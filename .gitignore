@@ -24,3 +24,6 @@
 log/development.log
 log/development.log
 log
+
+# ignore .git
+/.git
